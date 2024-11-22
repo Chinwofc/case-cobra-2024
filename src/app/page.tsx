@@ -24,21 +24,21 @@ export default function Home() {
                 Phone Case
               </h1>
               <p className='mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap'>
-                Capture your favorite memories with your own,{' '}
-                <span className='font-semibold'>one-of-one</span> phone case.
-                CaseCobra allows you to protect your memories, not just your
-                phone case.
+                Capture your most favorite memories with your own,{' '}
+                <span className='font-semibold'>one-on-one</span> phone case.
+                Case-Cobra allows you to secure your memories, not just your
+                phone case alone.
               </p>
 
               <ul className='mt-8 space-y-2 text-left font-medium flex flex-col items-center sm:items-start'>
                 <div className='space-y-2'>
                   <li className='flex gap-1.5 items-center text-left'>
                     <Check className='h-5 w-5 shrink-0 text-green-600' />
-                    High-quality, durable material
+                    High-quality and durable material
                   </li>
                   <li className='flex gap-1.5 items-center text-left'>
-                    <Check className='h-5 w-5 shrink-0 text-green-600' />5 year
-                    print guarantee
+                    <Check className='h-5 w-5 shrink-0 text-green-600' />5 years
+                    print guaranteed
                   </li>
                   <li className='flex gap-1.5 items-center text-left'>
                     <Check className='h-5 w-5 shrink-0 text-green-600' />
@@ -135,13 +135,13 @@ export default function Home() {
               </div>
               <div className='text-lg leading-8'>
                 <p>
-                  "The case feels durable and I even got a compliment on the
+                  "The case feels so durable and I got a compliment on the
                   design. Had the case for two and a half months now and{' '}
                   <span className='p-0.5 bg-slate-800 text-white'>
                     the image is super clear
                   </span>
-                  , on the case I had before, the image started fading into
-                  yellow-ish color after a couple weeks. Love it."
+                  , unlike the case I had before, the image started fading into
+                  yellow-ish color after a couple weeks. Love this so much."
                 </p>
               </div>
               <div className='flex gap-4 mt-2'>
@@ -171,12 +171,12 @@ export default function Home() {
               </div>
               <div className='text-lg leading-8'>
                 <p>
-                  "I usually keep my phone together with my keys in my pocket
+                  "I keep my phone usually together with my keys in my pocket
                   and that led to some pretty heavy scratchmarks on all of my
-                  last phone cases. This one, besides a barely noticeable
+                  previous phone cases. This one, besides a barely noticeable
                   scratch on the corner,{' '}
                   <span className='p-0.5 bg-slate-800 text-white'>
-                    looks brand new after about half a year
+                    looks pretty much like a brand new after about half a year
                   </span>
                   . I dig it."
                 </p>
@@ -261,7 +261,7 @@ export default function Home() {
                   className: 'mx-auto mt-8',
                 })}
                 href='/configure/upload'>
-                Create your case now <ArrowRight className='h-4 w-4 ml-1.5' />
+                Create your own case now... <ArrowRight className='h-4 w-4 ml-1.5' />
               </Link>
             </div>
           </ul>
